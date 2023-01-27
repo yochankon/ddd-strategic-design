@@ -152,49 +152,50 @@
 
 
 ## 모델링
-[![](https://mermaid.ink/img/pako:eNqlVV1r2zAU_StGz-0fyNvAtJSxLTR7NBTVus0MsR1keRDSwNauZWN9KFsGgyVlpTDo6EM2yuZBf1Gk_Ifqw_FHbDcb04MdSefo3nPuVTxEbkgAtRBQ28Ndin0nsORo05DELrMODzc3w6H1BIJ4udSy3DBg2AuiMnRopmp4ASvs7NhW-7HlIPFrPJ-92hPHrxcf3u7YDrJyRsSoF3SXjKfYB7koKRrLv588AG5Tz4UcLEPMf147qALfha4XMaB5JvzjD345FdM78X6yJIzMSwnepmHcLzpQkZ6jquKzvRX5_HrM393Ofyf86o8yoZJnRkxd0MNBRZ42pFmgsW6dRq1ofX01rF5erbJGTVlRDa5eg0kkLWgq-b8LmheruVf_Us-_dXYW-xklQJ_j_R4sHdcrlYYq4KopFjZ11MXJmZje8mRca7kGZp5nWPX89qZGksZvxxCxqIxPxJfzoiLdXnm2JUGNt2Q9yhzWoDoz-uqO3yS1eo07gz6k7a-RYvJ18flTE7rDMIujHCzLdzwp_dMQzGArpD5mhmHLeeF02WgX5yVCxxyvhg097yXQwSNCKEQqDJ_NxOml5IrTs2JONaRdj-jGNpR5MhNHNzVFW2mLrdyjrICVe1CowYrbJavTyWrQ9J48eFFGaAP5IF3ziPyy6CAOYi_ABwe15E8CBzjuMQVXUByzsDMIXNQ6wL0INlDcV76n36N0dXQP2iF6vA?type=png)](https://mermaid.live/edit#pako:eNqlVV1r2zAU_StGz-0fyNvAtJSxLTR7NBTVus0MsR1keRDSwNauZWN9KFsGgyVlpTDo6EM2yuZBf1Gk_Ifqw_FHbDcb04MdSefo3nPuVTxEbkgAtRBQ28Ndin0nsORo05DELrMODzc3w6H1BIJ4udSy3DBg2AuiMnRopmp4ASvs7NhW-7HlIPFrPJ-92hPHrxcf3u7YDrJyRsSoF3SXjKfYB7koKRrLv588AG5Tz4UcLEPMf147qALfha4XMaB5JvzjD345FdM78X6yJIzMSwnepmHcLzpQkZ6jquKzvRX5_HrM393Ofyf86o8yoZJnRkxd0MNBRZ42pFmgsW6dRq1ofX01rF5erbJGTVlRDa5eg0kkLWgq-b8LmheruVf_Us-_dXYW-xklQJ_j_R4sHdcrlYYq4KopFjZ11MXJmZje8mRca7kGZp5nWPX89qZGksZvxxCxqIxPxJfzoiLdXnm2JUGNt2Q9yhzWoDoz-uqO3yS1eo07gz6k7a-RYvJ18flTE7rDMIujHCzLdzwp_dMQzGArpD5mhmHLeeF02WgX5yVCxxyvhg097yXQwSNCKEQqDJ_NxOml5IrTs2JONaRdj-jGNpR5MhNHNzVFW2mLrdyjrICVe1CowYrbJavTyWrQ9J48eFFGaAP5IF3ziPyy6CAOYi_ABwe15E8CBzjuMQVXUByzsDMIXNQ6wL0INlDcV76n36N0dXQP2iF6vA)
+[![](https://mermaid.ink/img/pako:eNqtldFq2zAUhl_F6Lp9gdyNmZVStoVml4ah2aeZILaDLA9CGtjWtWysF2PLYLAEVgqDjl5kpXQe9Ili5R0mybasxHa9wXRhx9J3LP3_OSceIzf0AHUQUJvgPsW-E1hidGnoxS6zDg-3t8Ox9RCCuJjqWG4YMEyCaB0dZ49ykIAZK7u21d2zHMRvpsvFy6f86NXq49td20FWGRExSoJ-EfEI-yAmRYhi0x_Hd8BdSlwoYbHF8urCQSXuYQbWPvSJiMOMhIEtJ_R50k8_07M5n9_y97MibJLdpOwdGsZD04eKASVVtUCvbZiQXkzTd9fLX0l6_ltaURGnA3Mv1HCQGadsaZOZ2dimVOlqz7XC6kXW6mtUphOccRtKDFAnNxf-n5JbJq65ev9S1b_Vut77MfWAPsHPBlD4rmYqxWVw1SMai2rX1fEpn1-nybTWeAVq5zUrr9_f1EhS_E4MEYvW-YR__WAqUkVWnnZNUGPHtFPZyxpUF0bnDzVyM3NGQ7hv511wfpteJnz2bfXlcxPfY5jFkYjQuMjg0Wzt70eVnKKzDtNoXmUG2steLYcNA_IC6Oie51GIpKPpYsFPzkQsPzk1z1MTtE-kFUXIMlnw15c1GduoiQd7-mw6e5UmMBKwYXWbz5LJm-TOLpmgLeQD9THxxIdGbeIg9hx8cFBH_PTgAMcDJnGJ4piFvVHgos4BHkSwheKhdDz_POWzkz-6SX1t?type=png)](https://mermaid.live/edit#pako:eNqtldFq2zAUhl_F6Lp9gdyNmZVStoVml4ah2aeZILaDLA9CGtjWtWysF2PLYLAEVgqDjl5kpXQe9Ili5R0mybasxHa9wXRhx9J3LP3_OSceIzf0AHUQUJvgPsW-E1hidGnoxS6zDg-3t8Ox9RCCuJjqWG4YMEyCaB0dZ49ykIAZK7u21d2zHMRvpsvFy6f86NXq49td20FWGRExSoJ-EfEI-yAmRYhi0x_Hd8BdSlwoYbHF8urCQSXuYQbWPvSJiMOMhIEtJ_R50k8_07M5n9_y97MibJLdpOwdGsZD04eKASVVtUCvbZiQXkzTd9fLX0l6_ltaURGnA3Mv1HCQGadsaZOZ2dimVOlqz7XC6kXW6mtUphOccRtKDFAnNxf-n5JbJq65ev9S1b_Vut77MfWAPsHPBlD4rmYqxWVw1SMai2rX1fEpn1-nybTWeAVq5zUrr9_f1EhS_E4MEYvW-YR__WAqUkVWnnZNUGPHtFPZyxpUF0bnDzVyM3NGQ7hv511wfpteJnz2bfXlcxPfY5jFkYjQuMjg0Wzt70eVnKKzDtNoXmUG2steLYcNA_IC6Oie51GIpKPpYsFPzkQsPzk1z1MTtE-kFUXIMlnw15c1GduoiQd7-mw6e5UmMBKwYXWbz5LJm-TOLpmgLeQD9THxxIdGbeIg9hx8cFBH_PTgAMcDJnGJ4piFvVHgos4BHkSwheKhdDz_POWzkz-6SX1t)
 
 ## 데이터 단어사전
-| No  | 단어명 | 영문명 | 분류단어 | Type   |
-|-----|-----| --- | --- |--------|
-| 1   | 상품 | Product |  |        |
-| 2   | 명  | Name | Y | String |
-| 3   | 가격 | Price | Y | int    |
-| 4   | 등록자  | Register |  ||
-| 5   | 메뉴 | Menu  |  ||
-| 6   | 그룹 | Group |  ||
-| 7   | ID  | ID | Y | String |
-| 8   | 주문  | Order |  ||
-| 9   | 테이블 | Table |  ||
-| 10  | 인원  | Guests |  ||
-| 11  | 유형 | Type | Y | String |
-| 12  | 상태  | Status | Y | String |
-| 13  | 배송  | Delivery |  ||
-| 14  | 주소 | Address | Y | String       |
-| 15  | 기사  | Rider |  ||
+| No  | 단어명      | 영문명          | 단어 설명 | 분류단어  | Type     |
+|-----|----------|-----------------|-------|--------|----------|
+| 1   | 상품       | Product         |       |       |          |
+| 2   | 명        | Name            |       | Y     | String   |
+| 3   | 가격       | Price           |       | Y     | int      |
+| 4   | 등록       | Registration    |       |       ||
+| 5   | 메뉴       | Menu            |       |       ||
+| 6   | 그룹       | Group           |       |       ||
+| 7   | ID       | ID              |       | Y     | String   |
+| 8   | 주문       | Order          |       |       ||
+| 9   | 테이블      | Table          |       |       ||
+| 10  | 인원       | Guests          |       |       ||
+| 11  | 유형       | Type            |       | Y     | String   |
+| 12  | 상태       | Status          |       | Y     | String   |
+| 13  | 배송       | Delivery        |       |       ||
+| 14  | 주소       | Address         |       | Y     | String   |
+| 15  | 기사       | Rider           |       |       |          |
+| 16  | 일시       | Date            |       | Y     | Date     |
 
 ## 데이터 용어 사전
-| No  | 용어     | 영문명 |  용어설명  |
-|---|--------| --- |---|
-| 1   | 상품ID   | ProductID | |    
-| 2   | 상품명    | ProductName||
-| 3   | 상품가격   | ProductPrice ||
-| 4   | 등록일시   | Register | |   
-| 5   | 메뉴그룹ID | MenuGroupID  | |
-| 6   | 메뉴그룹명  | MenuGroupName | |
-| 7   | 메뉴ID   | MenuID | |
-| 8   | 메뉴명    | MenuName | |
-| 9   | 메뉴가격   | MenuPrice | |
-| 10  | 테이블ID  | OrderTable | |
-| 11  | 테이블이름  | TableName | |
-| 12  | 테이블인원  | TableGuests | |
-| 13  | 주문ID   | OrderID |  | 
-| 14  | 주문유형   | OrderType | |
-| 15  | 주문상태   | OrderStatus | |
-| 16  | 주문일자   | OrderDate | |
+| No  | 용어     | 영문명             |  용어설명  |
+|---|--------|-----------------|---|
+| 1   | 상품ID   | ProductID       | |    
+| 2   | 상품명    | ProductName     ||
+| 3   | 상품가격   | ProductPrice    ||
+| 4   | 등록일시   | RegistraionDate | |   
+| 5   | 메뉴그룹ID | MenuGroupID     | |
+| 6   | 메뉴그룹명  | MenuGroupName   | |
+| 7   | 메뉴ID   | MenuID          | |
+| 8   | 메뉴명    | MenuName        | |
+| 9   | 메뉴가격   | MenuPrice       | |
+| 10  | 테이블ID  | OrderTable      | |
+| 11  | 테이블이름  | TableName       | |
+| 12  | 테이블인원  | TableGuests     | |
+| 13  | 주문ID   | OrderID         |  | 
+| 14  | 주문유형   | OrderType       | |
+| 15  | 주문상태   | OrderStatus     | |
+| 16  | 주문일자   | OrderDate       | |
 | 17  | 배송주소   | DeliveryAddress | |
-| 18  | 배송기사   | DeliveryRider | |
-| 19  | 주문테이블  | OrderTable |  |
+| 18  | 배송기사   | DeliveryRider   | |
+| 19  | 주문테이블  | OrderTable      |  |
 
 
 ### 메뉴그룹(`MenuGroup`)
